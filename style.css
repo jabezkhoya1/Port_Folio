@@ -1,0 +1,55 @@
+body{
+  text-align: center;  
+}
+#welcome{
+ background:linear-gradient(#195ecf 0%,#1ac929 100%);
+ padding-top: 70px;
+ width: 100%;
+ padding-bottom: 50px;
+ z-index: 9;
+ 
+}
+ul{
+  z-index: 10;
+  list-style: none;
+  position: fixed;
+  top: 0px;
+  background-color: yellow;
+  cursor: pointer;
+  margin-top: 0px;
+  width: 100%;
+  margin-left: 0px;
+}
+li{
+  float: left;
+  font-size: 20px;
+  font-family: fantasy;
+  padding-top:5px;
+  padding-left:9px;
+  padding-right:9px;
+  padding-bottom:5px;
+}
+
+h1{
+  font-family:'Festive', cursive;
+  font-size: 40px;
+}
+#bio{
+  padding:50px;
+  font-size:20px;
+}
+hr{
+  width: 100px;
+}
+img{
+  border-radius: 50%;
+}
+h2{
+  font-family: 'Supermercado One', cursive;
+}
+p{
+  font-family: 'Rowdies', cursive;
+}
+#d1 h3{
+  display: inline;
+}
